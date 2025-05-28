@@ -5,7 +5,6 @@ This project tackles two core algorithm challenges using both iterative and recu
 
 - `fibonacci.js` – Contains both the iterative and recursive Fibonacci functions.
 - `mergeSort.js` – Contains the recursive Merge Sort implementation.
-- `README.md` – You're lookin' at it!
 
 ---
 
